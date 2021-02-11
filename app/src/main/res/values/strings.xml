@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackStudy</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="completed">Completed</string>
+    <string name="not_completed">Not Completed</string>
+    <string name="daftar_post">Daftar Post</string>
+    <string name="daftar_todo">Daftar Todo</string>
+</resources>
